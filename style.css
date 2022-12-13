@@ -15,6 +15,24 @@ body {
     border-bottom: 1px solid #000;
 }
 
+.attaque {
+    display: flex;
+    justify-content: space-between;
+}
+.millieu {
+    display: flex;
+    justify-content: space-evenly;
+}
+.defense {
+    display: flex;
+    justify-content: space-around;
+}
+
+.player-link {
+    text-decoration: none;
+    color: black;
+}
+
 .header-btn {
     color: #000; 
     font-weight: bold; 
